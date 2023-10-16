@@ -1,8 +1,0 @@
-# So-Yummy
-So Yummy web application team project
-
-Link to site: https://so-yummi-qa.netlify.app/
-
-Test cases: functional (F) and non-functional (NF).
-
-Some test cases are different for computer [com], tablet [tab] and mobile devices [mob] version of the app.
